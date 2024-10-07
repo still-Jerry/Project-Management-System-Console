@@ -1,0 +1,11 @@
+08.10.2024 1:23:07 admin man
+08.10.2024 1:23:23 admin lu
+08.10.2024 1:23:28 admin exit
+08.10.2024 1:30:23 admin nu --help
+08.10.2024 1:30:43 admin nu -ln new -r u -r pwd
+08.10.2024 1:30:49 admin nu -ln new -r u -p pwd
+08.10.2024 1:30:52 admin lu
+08.10.2024 1:32:49 admin lu
+08.10.2024 1:32:54 admin chu --help
+08.10.2024 1:33:11 admin chu -lo new -p pwd
+08.10.2024 1:33:20 admin lu

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC870CAD-16F9-48E9-ABBB-B749AAF97950}|Project Management System Console\\Project Management System Console.csproj|c:\\users\\\u043E\u043B\u0435\u0447\u043A\u0430\\desktop\\project management system console\\project management system console\\modules\\businessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC870CAD-16F9-48E9-ABBB-B749AAF97950}|Project Management System Console\\Project Management System Console.csproj|solutionrelative:project management system console\\modules\\businessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC870CAD-16F9-48E9-ABBB-B749AAF97950}|Project Management System Console\\Project Management System Console.csproj|c:\\users\\\u043E\u043B\u0435\u0447\u043A\u0430\\desktop\\project management system console\\project management system console\\views\\managerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC870CAD-16F9-48E9-ABBB-B749AAF97950}|Project Management System Console\\Project Management System Console.csproj|solutionrelative:project management system console\\views\\managerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC870CAD-16F9-48E9-ABBB-B749AAF97950}|Project Management System Console\\Project Management System Console.csproj|C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\project management system console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC870CAD-16F9-48E9-ABBB-B749AAF97950}|Project Management System Console\\Project Management System Console.csproj|solutionrelative:project management system console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC870CAD-16F9-48E9-ABBB-B749AAF97950}|Project Management System Console\\Project Management System Console.csproj|C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\project management system console\\modules\\sqlmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC870CAD-16F9-48E9-ABBB-B749AAF97950}|Project Management System Console\\Project Management System Console.csproj|solutionrelative:project management system console\\modules\\sqlmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC870CAD-16F9-48E9-ABBB-B749AAF97950}|Project Management System Console\\Project Management System Console.csproj|C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\project management system console\\modules\\logmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC870CAD-16F9-48E9-ABBB-B749AAF97950}|Project Management System Console\\Project Management System Console.csproj|solutionrelative:project management system console\\modules\\logmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC870CAD-16F9-48E9-ABBB-B749AAF97950}|Project Management System Console\\Project Management System Console.csproj|c:\\users\\\u043E\u043B\u0435\u0447\u043A\u0430\\desktop\\project management system console\\project management system console\\modules\\colormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC870CAD-16F9-48E9-ABBB-B749AAF97950}|Project Management System Console\\Project Management System Console.csproj|solutionrelative:project management system console\\modules\\colormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColorModule.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\Project Management System Console\\Modules\\ColorModule.cs",
+              "RelativeDocumentMoniker": "Project Management System Console\\Modules\\ColorModule.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\Project Management System Console\\Modules\\ColorModule.cs",
+              "RelativeToolTip": "Project Management System Console\\Modules\\ColorModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:28:32.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerView.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\Project Management System Console\\Views\\ManagerView.cs",
+              "RelativeDocumentMoniker": "Project Management System Console\\Views\\ManagerView.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\Project Management System Console\\Views\\ManagerView.cs",
+              "RelativeToolTip": "Project Management System Console\\Views\\ManagerView.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwI4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:19:24.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\Project Management System Console\\Program.cs",
+              "RelativeDocumentMoniker": "Project Management System Console\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\Project Management System Console\\Program.cs",
+              "RelativeToolTip": "Project Management System Console\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswGgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:24:29.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\Project Management System Console\\Modules\\BusinessModule.cs",
+              "RelativeDocumentMoniker": "Project Management System Console\\Modules\\BusinessModule.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\Project Management System Console\\Modules\\BusinessModule.cs*",
+              "RelativeToolTip": "Project Management System Console\\Modules\\BusinessModule.cs*",
+              "ViewState": "AgIAACkBAAAAAAAAAAAwwEkBAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:27:27.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogModule.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\Project Management System Console\\Modules\\LogModule.cs",
+              "RelativeDocumentMoniker": "Project Management System Console\\Modules\\LogModule.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\Project Management System Console\\Modules\\LogModule.cs",
+              "RelativeToolTip": "Project Management System Console\\Modules\\LogModule.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:02:03.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLModule.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\Project Management System Console\\Modules\\SQLModule.cs",
+              "RelativeDocumentMoniker": "Project Management System Console\\Modules\\SQLModule.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Project Management System Console\\Project Management System Console\\Modules\\SQLModule.cs",
+              "RelativeToolTip": "Project Management System Console\\Modules\\SQLModule.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAkwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:28:10.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

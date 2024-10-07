@@ -1,0 +1,10 @@
+INSERT into roleUser VALUES (1,"admin");
+INSERT into roleUser VALUES (2,"user");
+INSERT into stateTask VALUES (1,"Предложено");
+INSERT into stateTask VALUES (2,"В работе");
+INSERT into stateTask VALUES (3,"Выполнено");
+INSERT into User VALUES (1,"admin","admin",1);
+INSERT into User VALUES (2,"user","user",2);
+INSERT into Task VALUES (1,"Задача1","Описание1",1, 2);
+INSERT into Task VALUES (2,"Задача2","Описание2",2, 2);
+INSERT into Task VALUES (3,"Задача3","Описание3",3, 2);

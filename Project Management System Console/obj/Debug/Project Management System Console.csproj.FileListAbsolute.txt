@@ -1,0 +1,13 @@
+C:\Users\Олечка\Desktop\Project Management System Console\Project Management System Console\bin\Debug\Res\SQLite.Interop.dll
+C:\Users\Олечка\Desktop\Project Management System Console\Project Management System Console\bin\Debug\Res\System.Data.SQLite.dll
+C:\Users\Олечка\Desktop\Project Management System Console\Project Management System Console\bin\Debug\SQLite.Interop.dll
+C:\Users\Олечка\Desktop\Project Management System Console\Project Management System Console\bin\Debug\Res\ManagementDB.db
+C:\Users\Олечка\Desktop\Project Management System Console\Project Management System Console\bin\Debug\Project Management System Console.exe.config
+C:\Users\Олечка\Desktop\Project Management System Console\Project Management System Console\bin\Debug\Project Management System Console.exe
+C:\Users\Олечка\Desktop\Project Management System Console\Project Management System Console\bin\Debug\Project Management System Console.pdb
+C:\Users\Олечка\Desktop\Project Management System Console\Project Management System Console\bin\Debug\System.Data.SQLite.dll
+C:\Users\Олечка\Desktop\Project Management System Console\Project Management System Console\obj\Debug\Project Management System Console.csproj.AssemblyReference.cache
+C:\Users\Олечка\Desktop\Project Management System Console\Project Management System Console\obj\Debug\Project Management System Console.csproj.CoreCompileInputs.cache
+C:\Users\Олечка\Desktop\Project Management System Console\Project Management System Console\obj\Debug\Project .AC95F6C9.Up2Date
+C:\Users\Олечка\Desktop\Project Management System Console\Project Management System Console\obj\Debug\Project Management System Console.exe
+C:\Users\Олечка\Desktop\Project Management System Console\Project Management System Console\obj\Debug\Project Management System Console.pdb
